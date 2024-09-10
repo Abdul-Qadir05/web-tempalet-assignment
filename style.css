@@ -1,0 +1,53 @@
+.s{
+    font-size: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(85, 68, 68);
+    padding: 45px;
+    letter-spacing: 0.5px;
+   
+}
+.l{
+    font-size: 65px;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 0%;
+    font-family: georgia,serif;
+    color: rgb(85, 68, 68);
+    padding: 85px;
+   font-weight: 60;
+}
+body{
+    background-image:url(WhatsApp\ Image\ 2024-09-09\ at\ 8.59.32\ PM.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;}
+    .w{
+        font-size: 17px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    color: rgb(85, 68, 68);
+        margin: -6%;
+        letter-spacing: 0.5px;
+        word-spacing: 2px;
+        
+        
+   
+    }
+    input{
+       margin: 3%;
+       border-radius: 13px;
+       border: none;
+      width: 120px;
+      padding: 3px ;
+      height: 27px;
+      color: rgb(85, 68, 68);
+      cursor: pointer;
+    }
+    input:hover{
+        background-color: rgb(207, 188, 188);
+        color: aliceblue;
+    }
